@@ -1,0 +1,22 @@
+{
+  "name": "Palmer Events Center",
+  "address": "900 Barton Springs Road, Austin, TX 78704",
+  "capacity": 500,
+  "booking_status": "Availability to be confirmed upon request",
+  "price_estimate": 60000.0,
+  "pros": [
+    "LEED Gold-certified venue",
+    "Powered by 100% renewable energy",
+    "Extensive recycling, reuse, and composting program",
+    "70,000 sq. ft. column-free exhibit halls suitable for showcases and demos",
+    "Green catering with locally sourced food and partner food trucks",
+    "Located downtown with access to 1,200-space parking garage",
+    "Easily accessible by public transport and close to many hotels"
+  ],
+  "cons": [
+    "Exact booking costs need direct confirmation",
+    "Floor plan details not publicly available currently",
+    "May be mid to high budget depending on event specifics"
+  ],
+  "url": "http://www.palmereventscenter.com/"
+}
