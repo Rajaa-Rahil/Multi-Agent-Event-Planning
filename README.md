@@ -14,7 +14,7 @@ This project is a Jupyter Notebook that demonstrates a multi-agent approach to a
 - **environment variables**: Use environment variables (.env) to secure API key management. 
 - **Sustainable Focus**: Special emphasis on green event planning.
 
-## Technologies
+## Work Environment
 
 - Python 3.x.
 - Jupyter Notebook.
