@@ -28,8 +28,10 @@ This project is a Jupyter Notebook that demonstrates a multi-agent approach to a
 1. Download the repository.
 2. Install the required Python packages in the requirements.txt file.
 3. Create a `.env` file in the root directory to store your API keys:
+```python
    OPENAI_API_KEY=your_openai_api_key
    SERPER_API_KEY=your_serper_api_key
+```
 4. Open the Jupyter Notebook and set your model.
 5. Customize the event details and then run the cells:
 
