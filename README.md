@@ -44,7 +44,7 @@ event_details = {
     'audience': "target audience description",
     'venue_type': "Venue Type"
 }
-
+```
 
 ## Output Files
 
