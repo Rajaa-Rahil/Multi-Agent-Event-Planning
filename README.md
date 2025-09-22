@@ -32,7 +32,8 @@ This project is a Jupyter Notebook that demonstrates a multi-agent approach to a
    SERPER_API_KEY=your_serper_api_key
 4. Open the Jupyter Notebook and set your model.
 5. Customize the event details and then run the cells:
-   ```python
+
+ ```python
 event_details = {
     'event_topic': "Your Event Name",
     'event_city': "City, State",
@@ -43,6 +44,7 @@ event_details = {
     'audience': "target audience description",
     'venue_type': "Venue Type"
 }
+
 
 ## Output Files
 
