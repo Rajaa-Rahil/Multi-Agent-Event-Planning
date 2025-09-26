@@ -1,11 +1,11 @@
-# Multi-Agent Event Planning with CrewAI
+## Multi-Agent Event Planning with CrewAI
 A comprehensive event planning system using CrewAI's multi-agent framework to automate venue selection, logistics, marketing, and risk management for events.
 
-## Project Overview
+### Project Overview
 
 This project is a Jupyter Notebook that demonstrates a multi-agent approach to automated event planning using the CrewAI framework. The example focuses on organizing the "Green Energy Startup Expo" in Austin, TX, aiming to efficiently coordinate tasks between agents representing Venue Coordination, Logistics, Marketing and Communications, and Risk and Compliance.
 
-## Features
+### Features
 
 - **Multi-Agent System**: Four specialized agents covering multiple aspects of event management.  
 - **Structured Output**: Pydantic models to ensure data structuring. 
@@ -14,7 +14,7 @@ This project is a Jupyter Notebook that demonstrates a multi-agent approach to a
 - **environment variables**: Use environment variables (.env) to secure API key management. 
 - **Sustainable Focus**: Special emphasis on green event planning.
 
-## Work Environment
+### Work Environment
 
 - Python 3.x.
 - Jupyter Notebook.
@@ -23,7 +23,7 @@ This project is a Jupyter Notebook that demonstrates a multi-agent approach to a
 - OpenAI API, Serper API for web search.
 - Pydantic for data models.
 
-## Setup
+### Setup
 
 1. Download the repository.
 2. Install the required Python packages in the requirements.txt file.
@@ -48,7 +48,7 @@ event_details = {
 }
 ```
 
-## Output Files
+### Output Files
 
 The project generates three files:
 
@@ -56,7 +56,7 @@ The project generates three files:
 - `marketing_report.md` – Marketing strategy and outreach plan.  
 - `risk_compliance_checklist.md` – Safety, risk assessmment and compliance chechlist.
 
-##  Acknowledgments
+###  Acknowledgments
 
 - Built with [CrewAI](https://www.crewai.com). 
 - Uses [OpenAI](https://openai.com) models.  
